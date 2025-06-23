@@ -311,3 +311,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:38:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 joined the game
 [23:38:21] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hitler_peruano0'/231, l='world', x=-70.10, y=73.00, z=221.98] connected. Sending ping
 [23:38:21] [Thread-12/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ccfd0edf-d616-3cb6-9825-27ed545dc0e7.
+[23:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 has made the advancement [Stone Age]
+[23:51:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 has made the advancement [Getting an Upgrade]
+[23:51:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 has made the advancement [Monster Hunter]
+[23:54:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 was slain by Golden Geonach  Lvl 4
+[23:56:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hitler_peruano0 lost connection: Disconnected
+[23:56:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 left the game
+[23:56:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[23:56:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:56:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:56:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[23:56:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[23:56:48] [Server thread/INFO] [FML]: Unloading dimension 0
+[23:56:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:56:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[23:56:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
