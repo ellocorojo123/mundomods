@@ -1,240 +1,240 @@
-[23:27:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:27:28] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:27:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[23:27:28] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[23:27:28] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[23:27:28] [main/INFO] [FML]: Searching /workspaces/mundomods/servidor_minecraft/./mods for mods
-[23:27:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in iceandfire-1.9.1-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[23:27:28] [main/WARN] [FML]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
-[23:27:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.2.6_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[23:27:28] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[23:27:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:27:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[23:27:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:27:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[23:27:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:27:29] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[23:27:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:27:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:27:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[23:27:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:27:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[23:27:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[23:27:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[23:27:30] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[23:27:30] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[23:27:30] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[23:27:30] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[23:27:31] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[23:27:32] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[23:27:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[23:27:33] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[23:27:33] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[23:27:33] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[23:27:33] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[23:27:33] [Server thread/INFO] [FML]: Searching /workspaces/mundomods/servidor_minecraft/./mods for mods
-[23:27:34] [Server thread/INFO] [FML]: Disabling mod ambientsounds it is client side only.
-[23:27:34] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
-[23:27:34] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
-[23:27:34] [Server thread/WARN] [FML]: Mod rootsclassic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.1.7
-[23:27:34] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
-[23:27:34] [Server thread/INFO] [FML]: Forge Mod Loader has identified 31 mods to load
-[23:27:34] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[23:27:34] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
-[23:27:34] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
-[23:27:34] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
-[23:27:34] [Server thread/INFO] [FML]: FML has found a non-mod file AmbientSounds_v3.1.7_mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[23:27:35] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, aether_legacy, baubles, bookshelf, botania, clumps, disenchanter, eplus, erebus, familiarfauna, gravestone, waila, iceandfire, ic2, ironchest, jei, lycanitesmobs, mysticallib, mysticalworld, naturescompass, oreberries, patchouli, roguelike, rootsclassic, waystones, xaerominimap, llibrary] at CLIENT
-[23:27:35] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, aether_legacy, baubles, bookshelf, botania, clumps, disenchanter, eplus, erebus, familiarfauna, gravestone, waila, iceandfire, ic2, ironchest, jei, lycanitesmobs, mysticallib, mysticalworld, naturescompass, oreberries, patchouli, roguelike, rootsclassic, waystones, xaerominimap, llibrary] at SERVER
-[23:27:36] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[23:27:37] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[23:27:37] [Server thread/INFO] [FML]: Found 1600 ObjectHolder annotations
-[23:27:37] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[23:27:37] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[23:27:37] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[23:27:37] [Forge Version Check/INFO] [forge.VersionCheck]: [rootsclassic] Starting version check at https://raw.githubusercontent.com/Lothrazar/RootsClassic/master/update.json
-[23:27:37] [Forge Version Check/INFO] [forge.VersionCheck]: [rootsclassic] Found status: BETA Target: null
-[23:27:37] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
-[23:27:37] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
-[23:27:37] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[23:27:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[23:27:38] [Forge Version Check/INFO] [forge.VersionCheck]: [disenchanter] Starting version check at https://raw.githubusercontent.com/Impelon/Disenchanter/meta/versions.json
-[23:27:38] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class erebus.entity.EntityScytodes from class erebus.entity.EntityJumpingSpider
-[23:27:38] [Forge Version Check/INFO] [forge.VersionCheck]: [disenchanter] Found status: UP_TO_DATE Target: null
-[23:27:38] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
-[23:27:38] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.gaean_keystone`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_crate`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.umber_furnace`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_crafting`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_empty`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_healing`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_lighting`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_repair`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_xp`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.glowing_jar`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_bridge`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.umber_golem_statue`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.petrified_wood_chest`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.block_of_bones`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.extender_thingy`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.fluid_jar`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.honey_comb`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.silo_tank`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.composter`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.offering_altar`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.smoothie_maker`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.temple_teleporter`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.preserved_block`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_pipe`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_pipe_extract`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.liquifier`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lectern`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `podium`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `egginice`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pixie_house`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `jar`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dread_portal`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dread_spawner`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dummygorgonheadidle`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dummygorgonheadactive`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `myrmexcocoon`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforge`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforgeinput`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforgebrick`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:39] [Server thread/INFO] [Ice And Fire]: A raven flies from the north to the sea
-[23:27:39] [Server thread/INFO] [Ice And Fire]: A dragon whispers her name in the east
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
-[23:27:44] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config version created successfully.
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config general created successfully.
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_bobeko_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
-[23:27:44] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_bobeko_meat from JSON...
-[23:27:44] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
-[23:27:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:45] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_station`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:45] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config spawning created successfully.
-[23:27:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[23:27:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
-[23:27:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[23:27:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[23:27:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[23:27:45] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 90 JSON Spawners...
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 90 JSON Spawners Loaded In Total.
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 8 JSON Dungeon Themes...
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 8 JSON Dungeon Themes Loaded In Total.
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 9 JSON Dungeon Schematics...
-[23:27:46] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 9 JSON Dungeon Schematics Loaded In Total.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_mortar`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_imbuer`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_altar`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_brazier`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_vacuum`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_repulsor`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_accelerator`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_pretty`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_entangler`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_grower`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_igniter`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_healer`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
-[23:27:46] [Server thread/INFO] [FML]: Applying holder lookups
-[23:27:46] [Server thread/INFO] [FML]: Holder lookups applied
-[23:27:47] [Server thread/INFO] [FML]: Applying holder lookups
-[23:27:47] [Server thread/INFO] [FML]: Holder lookups applied
-[23:27:47] [Server thread/INFO] [FML]: Applying holder lookups
-[23:27:47] [Server thread/INFO] [FML]: Holder lookups applied
-[23:27:47] [Server thread/INFO] [FML]: Applying holder lookups
-[23:27:47] [Server thread/INFO] [FML]: Holder lookups applied
-[23:27:47] [Server thread/INFO] [FML]: Injecting itemstacks
-[23:27:47] [Server thread/INFO] [FML]: Itemstack injection complete
-[23:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[23:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[23:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[23:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[23:27:47] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[23:27:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:27:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[23:27:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:27:47] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:27:48] [Server thread/ERROR] [FML]: Parsing error loading recipe lycanitesmobs:belpharm_break
+[20:08:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:08:07] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:08:07] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:08:07] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[20:08:07] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[20:08:08] [main/INFO] [FML]: Searching /workspaces/mundomods/servidor_minecraft/./mods for mods
+[20:08:08] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in iceandfire-1.9.1-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:08:08] [main/WARN] [FML]: The coremod iceandfire (com.github.alexthe666.iceandfire.asm.IceAndFirePlugin) is not signed!
+[20:08:08] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.2.6_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:08:08] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[20:08:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:08:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:08:08] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:08:09] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:08:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:08:09] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:08:09] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[20:08:10] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[20:08:10] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[20:08:10] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:08:11] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[20:08:13] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[20:08:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[20:08:13] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[20:08:13] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:08:13] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[20:08:13] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[20:08:13] [Server thread/INFO] [FML]: Searching /workspaces/mundomods/servidor_minecraft/./mods for mods
+[20:08:14] [Server thread/INFO] [FML]: Disabling mod ambientsounds it is client side only.
+[20:08:14] [Server thread/WARN] [FML]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[20:08:14] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[20:08:14] [Server thread/WARN] [FML]: Mod rootsclassic is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-1.1.7
+[20:08:14] [Server thread/WARN] [FML]: Mod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
+[20:08:14] [Server thread/INFO] [FML]: Forge Mod Loader has identified 31 mods to load
+[20:08:14] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[20:08:14] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[20:08:14] [Server thread/WARN] [FML]: Missing English translation for ic2: assets/ic2/lang/en_us.lang
+[20:08:14] [Server thread/WARN] [FML]: Missing English translation for roguelike: assets/roguelike/lang/en_us.lang
+[20:08:14] [Server thread/INFO] [FML]: FML has found a non-mod file AmbientSounds_v3.1.7_mc1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:08:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, aether_legacy, baubles, bookshelf, botania, clumps, disenchanter, eplus, erebus, familiarfauna, gravestone, waila, iceandfire, ic2, ironchest, jei, lycanitesmobs, mysticallib, mysticalworld, naturescompass, oreberries, patchouli, roguelike, rootsclassic, waystones, xaerominimap, llibrary] at CLIENT
+[20:08:15] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, aether_legacy, baubles, bookshelf, botania, clumps, disenchanter, eplus, erebus, familiarfauna, gravestone, waila, iceandfire, ic2, ironchest, jei, lycanitesmobs, mysticallib, mysticalworld, naturescompass, oreberries, patchouli, roguelike, rootsclassic, waystones, xaerominimap, llibrary] at SERVER
+[20:08:16] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[20:08:16] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[20:08:16] [Server thread/INFO] [FML]: Found 1600 ObjectHolder annotations
+[20:08:16] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[20:08:16] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[20:08:17] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[20:08:17] [Forge Version Check/INFO] [forge.VersionCheck]: [disenchanter] Starting version check at https://raw.githubusercontent.com/Impelon/Disenchanter/meta/versions.json
+[20:08:17] [Forge Version Check/INFO] [forge.VersionCheck]: [disenchanter] Found status: UP_TO_DATE Target: null
+[20:08:17] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:08:17] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[20:08:17] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Starting version check at https://gist.githubusercontent.com/Gegy/a6639456aeb8edd92cbf7cbfcf9d65d9/raw/llibrary_updates.json
+[20:08:17] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class erebus.entity.EntityScytodes from class erebus.entity.EntityJumpingSpider
+[20:08:17] [Forge Version Check/INFO] [forge.VersionCheck]: [llibrary] Found status: UP_TO_DATE Target: null
+[20:08:17] [Forge Version Check/INFO] [forge.VersionCheck]: [rootsclassic] Starting version check at https://raw.githubusercontent.com/Lothrazar/RootsClassic/master/update.json
+[20:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [rootsclassic] Found status: BETA Target: null
+[20:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[20:08:18] [Forge Version Check/INFO] [forge.VersionCheck]: [gravestone] Starting version check at http://maxhenkel.de/update/gravestone.json
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.gaean_keystone`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_crate`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.umber_furnace`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_crafting`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_empty`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_healing`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_lighting`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_repair`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.altar_of_xp`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.glowing_jar`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_bridge`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.umber_golem_statue`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.petrified_wood_chest`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.block_of_bones`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.extender_thingy`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.fluid_jar`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.honey_comb`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.silo_tank`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.composter`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.offering_altar`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.smoothie_maker`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.temple_teleporter`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.preserved_block`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_pipe`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.bamboo_pipe_extract`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `erebus.liquifier`, expected `erebus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lectern`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `podium`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `egginice`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pixie_house`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `jar`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dread_portal`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dread_spawner`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dummygorgonheadidle`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dummygorgonheadactive`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `myrmexcocoon`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforge`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforgeinput`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `dragonforgebrick`, expected `iceandfire`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:18] [Server thread/INFO] [Ice And Fire]: A raven flies from the north to the sea
+[20:08:18] [Server thread/INFO] [Ice And Fire]: A dragon whispers her name in the east
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 354 out of 354 recipes for shaped recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 79 out of 79 recipes for shapeless recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 41 out of 41 recipes for solid uu recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 27 out of 27 recipes for furnace recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for blast furnace recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for block cutter recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 51 out of 51 recipes for compressor recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for extractor recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 89 out of 89 recipes for macerator recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 5 out of 5 recipes for metal former cutting recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 10 out of 10 recipes for metal former extruding recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 14 out of 14 recipes for metal former rolling recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 8 out of 8 recipes for ore washing recipes
+[20:08:24] [Server thread/INFO] [ic2.Recipe]: Successfully loaded 26 out of 26 recipes for thermal centrifuge recipes
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config version created successfully.
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config general created successfully.
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config itemlists created successfully.
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item pale_soup from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_arisaur_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_yale_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_silex_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item explorers_risotto from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_silex_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item searing_taco from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_pinky_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_bobeko_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_pinky_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_ika_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item paleo_salad from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_chupacabra_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item tropical_curry from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_cephignis_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_ika_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item devil_lasagna from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_chupacabra_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item battle_burrito from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_aspid_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_aspid_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item blood_chili from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item bulwark_burger from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_maka_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item seashell_maki from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item amber_cake from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_arisaur_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_concapede_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item lapis_fish_and_chips from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item caecilian_ramen from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_concapede_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item peaks_kebab from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_krake_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_joust_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_maka_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_krake_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_joust_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item raw_yale_meat from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item moss_pie from JSON...
+[20:08:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading item cooked_bobeko_meat from JSON...
+[20:08:24] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xtile.air@32767 = 6xitem.sugar@0
+[20:08:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.summoningpedestal`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipmentforge`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_infuser`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `lycanitesmobs.equipment_station`, expected `lycanitesmobs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:25] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config spawning created successfully.
+[20:08:25] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[20:08:25] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.AgeableCreatureEntity
+[20:08:25] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[20:08:25] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[20:08:25] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[20:08:25] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.lycanitesmobs.core.entity.BaseCreatureEntity from class com.lycanitesmobs.core.entity.TameableCreatureEntity
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 90 JSON Spawners...
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 90 JSON Spawners Loaded In Total.
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config mobevents created successfully.
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Config worldgen created successfully.
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 8 JSON Dungeon Themes...
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 8 JSON Dungeon Themes Loaded In Total.
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 1 JSON Dungeon Structures...
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 1 JSON Dungeon Structures Loaded In Total.
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 14 JSON Dungeon Sectors...
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 14 JSON Dungeon Sectors Loaded In Total.
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Loading 9 JSON Dungeon Schematics...
+[20:08:26] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logDebug:290]: [LycanitesMobs] [Debug] [] Complete! 9 JSON Dungeon Schematics Loaded In Total.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_mortar`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_imbuer`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_altar`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_brazier`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_vacuum`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_repulsor`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_accelerator`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_pretty`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_entangler`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_grower`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_igniter`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `te_healer`, expected `rootsclassic`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.advanced.table`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `eplus.decorative.book`, expected `eplus`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileentitygavestone`, expected `gravestone`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironchest.dirtchest9000`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.iron`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.gold`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.diamond`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.copper`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.silver`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.crystal`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `ironshulkerbox.obsidian`, expected `ironchest`. This could be a intended override, but in most cases indicates a broken mod.
+[20:08:27] [Server thread/INFO] [FML]: Applying holder lookups
+[20:08:27] [Server thread/INFO] [FML]: Holder lookups applied
+[20:08:27] [Server thread/INFO] [FML]: Applying holder lookups
+[20:08:27] [Server thread/INFO] [FML]: Holder lookups applied
+[20:08:27] [Server thread/INFO] [FML]: Applying holder lookups
+[20:08:27] [Server thread/INFO] [FML]: Holder lookups applied
+[20:08:27] [Server thread/INFO] [FML]: Applying holder lookups
+[20:08:27] [Server thread/INFO] [FML]: Holder lookups applied
+[20:08:27] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:08:27] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:08:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[20:08:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[20:08:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[20:08:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[20:08:27] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[20:08:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:08:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[20:08:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:08:27] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:08:28] [Server thread/ERROR] [FML]: Parsing error loading recipe lycanitesmobs:belpharm_break
 com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -252,77 +252,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[23:27:48] [Server thread/ERROR] [rootsclassic]: Duplicate ingredients are not allowed for incoming ritual : caveSpiderSummoning and existing ritual spiderSummoning
-[23:27:48] [Server thread/INFO] [FML]: Applying holder lookups
-[23:27:48] [Server thread/INFO] [FML]: Holder lookups applied
-[23:27:48] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(2, 1) invalid, 1 smaller than 2
-[23:27:48] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(4, 1) invalid, 1 smaller than 4
-[23:27:48] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(10, 1) invalid, 1 smaller than 10
-[23:27:48] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(9, 1) invalid, 1 smaller than 9
-[23:27:48] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(3, 2) invalid, 2 smaller than 3
-[23:27:48] [Server thread/INFO] [Ice And Fire]: The watcher waits on the northern wall
-[23:27:48] [Server thread/INFO] [Ice And Fire]: A daughter picks up a warrior's sword
-[23:27:48] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[23:27:48] [Server thread/INFO] [FML]: Injecting itemstacks
-[23:27:48] [Server thread/INFO] [FML]: Itemstack injection complete
-[23:27:48] [Server thread/INFO] [botania]: The Lexica Botania has 26624 words.
-[23:27:48] [Server thread/INFO] [Ice And Fire]: A brother bound to a love he must hide
-[23:27:48] [Server thread/INFO] [Ice And Fire]: The younger's armor is worn in the mind
-[23:27:48] [Server thread/INFO] [Ice And Fire]: A cold iron throne holds a boy barely grown
-[23:27:48] [Server thread/INFO] [Ice And Fire]: And now it is known
-[23:27:48] [Server thread/INFO] [Ice And Fire]: A claim to the prize, a crown laced in lies
-[23:27:48] [Server thread/INFO] [Ice And Fire]: You win or you die
-[23:27:48] [Server thread/INFO] [Ice And Fire]: Damn season 8 really sucked didn't it
-[23:27:48] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
-[23:27:48] [Server thread/INFO] [ic2.General]: ic2 version 2.8.222-ex112 loaded.
-[23:27:48] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[23:27:48] [Server thread/INFO] [Waila]: Starting Waila...
-[23:27:48] [Server thread/INFO] [Waila]: Gathering annotated plugins...
-[23:27:48] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
-[23:27:48] [Server thread/INFO] [Waila]: Registering plugins...
-[23:27:48] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
-[23:27:48] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
-[23:27:48] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
-[23:27:48] [Server thread/INFO] [Waila]: Registering plugin at com.github.alexthe666.iceandfire.compat.waila.PluginIceAndFire
-[23:27:48] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
-[23:27:48] [Server thread/INFO] [Waila]: Starting Waila took 38.78 ms
-[23:27:49] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 31 mods
-[23:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[23:27:49] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[23:27:49] [Server thread/INFO] [FML]: Applying holder lookups
-[23:27:49] [Server thread/INFO] [FML]: Holder lookups applied
-[23:27:50] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@429f82ca)
-[23:27:50] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 745 advancements
-[23:27:50] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@429f82ca)
-[23:27:50] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@429f82ca)
-[23:27:50] [Server thread/INFO] [FML]: Loading dimension 66 (world) (net.minecraft.server.dedicated.DedicatedServer@429f82ca)
-[23:27:50] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@429f82ca)
-[23:27:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[23:27:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 58%
-[23:27:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.489s)! For help, type "help" or "?"
-[23:27:51] [Server thread/INFO] [FML]: Unloading dimension -1
-[23:27:51] [Server thread/INFO] [FML]: Unloading dimension 1
-[23:27:52] [Server thread/INFO] [FML]: Unloading dimension 66
-[23:27:52] [Server thread/INFO] [FML]: Unloading dimension 4
-[23:38:17] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[23:38:17] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 46 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
-[23:38:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[23:38:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: hitler_peruano0[/127.90.155.221:52085] logged in with entity id 231 at (-70.10122946012972, 73.0, 221.98347860772682)
-[23:38:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 joined the game
-[23:38:21] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hitler_peruano0'/231, l='world', x=-70.10, y=73.00, z=221.98] connected. Sending ping
-[23:38:21] [Thread-12/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ccfd0edf-d616-3cb6-9825-27ed545dc0e7.
-[23:49:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 has made the advancement [Stone Age]
-[23:51:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 has made the advancement [Getting an Upgrade]
-[23:51:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 has made the advancement [Monster Hunter]
-[23:54:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 was slain by Golden Geonach  Lvl 4
-[23:56:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hitler_peruano0 lost connection: Disconnected
-[23:56:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 left the game
-[23:56:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
-[23:56:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[23:56:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[23:56:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[23:56:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[23:56:48] [Server thread/INFO] [FML]: Unloading dimension 0
-[23:56:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[23:56:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[23:56:48] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:08:28] [Server thread/ERROR] [rootsclassic]: Duplicate ingredients are not allowed for incoming ritual : caveSpiderSummoning and existing ritual spiderSummoning
+[20:08:28] [Server thread/INFO] [FML]: Applying holder lookups
+[20:08:28] [Server thread/INFO] [FML]: Holder lookups applied
+[20:08:28] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(2, 1) invalid, 1 smaller than 2
+[20:08:28] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(4, 1) invalid, 1 smaller than 4
+[20:08:28] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(10, 1) invalid, 1 smaller than 10
+[20:08:28] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(9, 1) invalid, 1 smaller than 9
+[20:08:28] [Server thread/WARN] [net.minecraft.entity.passive.EntityVillager]: PriceRange(3, 2) invalid, 2 smaller than 3
+[20:08:28] [Server thread/INFO] [Ice And Fire]: The watcher waits on the northern wall
+[20:08:28] [Server thread/INFO] [Ice And Fire]: A daughter picks up a warrior's sword
+[20:08:28] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20:08:28] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:08:28] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:08:28] [Server thread/INFO] [botania]: The Lexica Botania has 26624 words.
+[20:08:28] [Server thread/INFO] [Ice And Fire]: A brother bound to a love he must hide
+[20:08:28] [Server thread/INFO] [Ice And Fire]: The younger's armor is worn in the mind
+[20:08:28] [Server thread/INFO] [Ice And Fire]: A cold iron throne holds a boy barely grown
+[20:08:28] [Server thread/INFO] [Ice And Fire]: And now it is known
+[20:08:28] [Server thread/INFO] [Ice And Fire]: A claim to the prize, a crown laced in lies
+[20:08:28] [Server thread/INFO] [Ice And Fire]: You win or you die
+[20:08:28] [Server thread/INFO] [Ice And Fire]: Damn season 8 really sucked didn't it
+[20:08:29] [Server thread/INFO] [ic2.Uu]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[20:08:29] [Server thread/INFO] [ic2.General]: ic2 version 2.8.222-ex112 loaded.
+[20:08:29] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20:08:29] [Server thread/INFO] [Waila]: Starting Waila...
+[20:08:29] [Server thread/INFO] [Waila]: Gathering annotated plugins...
+[20:08:29] [Server thread/INFO] [Waila]: Gathering wrapped IMC plugins...
+[20:08:29] [Server thread/INFO] [Waila]: Registering plugins...
+[20:08:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[20:08:29] [Server thread/INFO] [Waila]: Registering plugin at com.github.alexthe666.iceandfire.compat.waila.PluginIceAndFire
+[20:08:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[20:08:29] [Server thread/INFO] [Waila]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[20:08:29] [Server thread/INFO] [Waila]: Registering plugin at net.blay09.mods.waystones.compat.WailaProvider
+[20:08:29] [Server thread/INFO] [Waila]: Starting Waila took 47.67 ms
+[20:08:29] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 31 mods
+[20:08:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[20:08:29] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[20:08:30] [Server thread/INFO] [FML]: Applying holder lookups
+[20:08:30] [Server thread/INFO] [FML]: Holder lookups applied
+[20:08:30] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1732dc92)
+[20:08:30] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 745 advancements
+[20:08:30] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1732dc92)
+[20:08:30] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1732dc92)
+[20:08:30] [Server thread/INFO] [FML]: Loading dimension 66 (world) (net.minecraft.server.dedicated.DedicatedServer@1732dc92)
+[20:08:30] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@1732dc92)
+[20:08:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[20:08:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 65%
+[20:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.386s)! For help, type "help" or "?"
+[20:08:32] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:08:32] [Server thread/INFO] [FML]: Unloading dimension 1
+[20:08:32] [Server thread/INFO] [FML]: Unloading dimension 66
+[20:08:32] [Server thread/INFO] [FML]: Unloading dimension 4
+[20:10:05] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[20:10:05] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 46 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalworld@1.12.2-1.11.0,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:10:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:10:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: hitler_peruano0[/127.90.155.221:33397] logged in with entity id 222 at (-278.5519684119461, 61.0, 275.45057147931567)
+[20:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 joined the game
+[20:10:09] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hitler_peruano0'/222, l='world', x=-278.55, y=61.00, z=275.45] connected. Sending ping
+[20:10:09] [Thread-12/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ccfd0edf-d616-3cb6-9825-27ed545dc0e7.
