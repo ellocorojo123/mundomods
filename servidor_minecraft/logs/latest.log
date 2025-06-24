@@ -311,3 +311,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [20:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 joined the game
 [20:10:09] [Server thread/INFO] [Waila]: Player EntityPlayerMP['hitler_peruano0'/222, l='world', x=-278.55, y=61.00, z=275.45] connected. Sending ping
 [20:10:09] [Thread-12/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for ccfd0edf-d616-3cb6-9825-27ed545dc0e7.
+[20:26:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: hitler_peruano0 lost connection: Disconnected
+[20:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 left the game
