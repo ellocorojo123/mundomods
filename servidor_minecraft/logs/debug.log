@@ -23893,3 +23893,290 @@ Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
 [20:37:41] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 175 times.
 
 [20:37:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:38:31] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 180 times.
+
+[20:38:31] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 180 times.
+
+[20:38:31] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 180 times.
+
+[20:38:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:21] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 185 times.
+
+[20:39:21] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 185 times.
+
+[20:39:21] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 185 times.
+
+[20:39:33] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:39:33] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:39:33] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:40:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:40:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Disconnected
+[20:40:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:40:11] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 190 times.
+
+[20:40:11] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 190 times.
+
+[20:40:11] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 190 times.
+
+[20:40:42] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:40:42] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:40:42] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:40:42] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:40:42] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[20:40:42] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:40:42] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:40:42] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:40:42] [Netty Epoll Server IO #1/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:40:42] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: ERROR
+[20:40:42] [Netty Epoll Server IO #1/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:40:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:40:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:40:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:40:54] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:40:54] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:40:54] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:40:54] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:40:54] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[20:40:54] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:40:54] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:40:54] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:40:54] [Netty Epoll Server IO #2/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:40:54] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: ERROR
+[20:40:54] [Netty Epoll Server IO #2/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:40:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:40:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:41:01] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 195 times.
+
+[20:41:01] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 195 times.
+
+[20:41:01] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 195 times.
+
+[20:41:13] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:41:13] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:41:13] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:41:14] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:41:14] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[20:41:14] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:41:14] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:41:14] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:41:14] [Netty Epoll Server IO #3/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:41:14] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: ERROR
+[20:41:14] [Netty Epoll Server IO #3/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:41:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:41:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:41:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:41:51] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 200 times.
+
+[20:41:51] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 200 times.
+
+[20:41:51] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 200 times.
+
+[20:42:06] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:42:06] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:42:06] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:42:06] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:42:06] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[20:42:06] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:42:06] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:42:06] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:42:06] [Netty Epoll Server IO #6/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:06] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: ERROR
+[20:42:06] [Netty Epoll Server IO #6/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:42:15] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:42:15] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:42:15] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:42:16] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:42:16] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[20:42:16] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:42:16] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:42:16] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:42:16] [Netty Epoll Server IO #7/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:16] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: ERROR
+[20:42:16] [Netty Epoll Server IO #7/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:42:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:42:41] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 205 times.
+
+[20:42:41] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 205 times.
+
+[20:42:41] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 205 times.
+
+[20:42:43] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:42:43] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:42:43] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:42:43] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:42:43] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[20:42:43] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:42:43] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:42:43] [Netty Epoll Server IO #3/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:42:43] [Netty Epoll Server IO #3/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:43] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: ERROR
+[20:42:43] [Netty Epoll Server IO #3/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:42:53] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:42:53] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:42:53] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:42:54] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:42:54] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[20:42:54] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:42:54] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:42:54] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:42:54] [Netty Epoll Server IO #5/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:54] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: ERROR
+[20:42:54] [Netty Epoll Server IO #5/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:43:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:43:07] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:43:07] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:43:07] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:43:07] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:43:07] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[20:43:07] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:43:07] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:43:07] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:43:07] [Netty Epoll Server IO #7/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:43:07] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: ERROR
+[20:43:07] [Netty Epoll Server IO #7/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:43:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:43:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:43:31] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 210 times.
+
+[20:43:31] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 210 times.
+
+[20:43:31] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 210 times.
+
+[20:43:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 has made the advancement [Acquire Hardware]
+[20:43:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:44:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: hitler_peruano0 has made the advancement [Isn't It Iron Pick]
+[20:44:21] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 215 times.
+
+[20:44:21] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 215 times.
+
+[20:44:21] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 215 times.
+
+[20:44:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:45:11] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 220 times.
+
+[20:45:11] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 220 times.
+
+[20:45:11] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 220 times.
+
+[20:45:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:46:01] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 225 times.
+
+[20:46:01] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 225 times.
+
+[20:46:01] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 225 times.
+
+[20:46:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:46:33] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:46:33] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:46:33] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:46:33] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:46:33] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[20:46:33] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:46:33] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:46:33] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:46:33] [Netty Epoll Server IO #0/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:46:33] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: ERROR
+[20:46:33] [Netty Epoll Server IO #0/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:46:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:46:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:46:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:46:51] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 230 times.
+
+[20:46:51] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 230 times.
+
+[20:46:51] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 230 times.
+
+[20:47:08] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:47:08] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:47:08] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:47:09] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:47:09] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[20:47:09] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:47:09] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:47:09] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:47:09] [Netty Epoll Server IO #5/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:09] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: ERROR
+[20:47:09] [Netty Epoll Server IO #5/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:47:21] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:47:21] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:47:21] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:47:21] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:47:21] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[20:47:21] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:47:21] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:47:21] [Netty Epoll Server IO #6/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:47:21] [Netty Epoll Server IO #6/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:21] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: ERROR
+[20:47:21] [Netty Epoll Server IO #6/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:21] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:47:31] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:47:31] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:47:31] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:47:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:47:32] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[20:47:32] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:47:32] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:47:32] [Netty Epoll Server IO #0/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:47:32] [Netty Epoll Server IO #0/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:32] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: ERROR
+[20:47:32] [Netty Epoll Server IO #0/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
+[20:47:41] [Server thread/DEBUG] [FML]: The world 69e2f37d (world) may have leaked: seen 235 times.
+
+[20:47:41] [Server thread/DEBUG] [FML]: The world 3ef76b05 (world) may have leaked: seen 235 times.
+
+[20:47:41] [Server thread/DEBUG] [FML]: The world 290089ca (world) may have leaked: seen 235 times.
+
+[20:47:43] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:47:43] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:47:43] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:47:43] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:47:43] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[20:47:43] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:47 mods->FMLHandshakeServerState$2:HELLO
+[20:47:43] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 47 mods : minecraft@1.12.2,usefulbackpacks@1.5.4.85,ambientsounds@3.0,disenchanter@1.8,dynamiclights_entityclasses@1.0.1,rootsclassic@1.12.2-1.1.7,baubles@1.5.2,creativecoredummy@1.0.0,creativecore@1.10.0,jei@4.16.1.1013,botania@r1.10-364,dynamiclights_dropitems@1.1.0,dynamiclights_theplayer@1.1.3,dynamiclights_mobequipment@1.1.0,dynamiclights_floodlights@1.0.3,dynamiclights_flamearrows@1.0.1,dynamiclights@1.4.9,lycanitesmobs@2.0.8.10 - MC 1.12.2,roguelike@1.8.0,ic2@2.8.222-ex112,patchouli@1.0-23.6,waystones@4.1.0,xaerominimap@25.2.6,mcp@9.42,gravestone@1.10.3,clumps@3.1.2,naturescompass@1.8.5,FML@8.0.99.99,bookshelf@2.3.590,familiarfauna@1.0.11,erebus@1.0.32,llibrary@1.7.20,uteamcore@2.2.5.375,dynamiclights_otherplayers@1.0.9,xaerominimap_core@1.12.2-1.0,iceandfire@1.9.1,waila@1.8.26,aether_legacy@1.5.4.1,tlauncher_custom_cape_skin@1.4,dynamiclights_onfire@1.0.7,oreberries@0.5.0,dynamiclights_creepers@1.0.6,mysticalmod@2.1,forge@14.23.5.2859,mysticallib@1.12.2-1.13.0,eplus@5.0.179,ironchest@1.12.2-7.0.67.844
+[20:47:43] [Netty Epoll Server IO #1/INFO] [FML]: Attempting connection with missing mods [mysticalworld] at CLIENT
+[20:47:43] [Netty Epoll Server IO #1/INFO] [FML]: Rejecting connection CLIENT: Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:43] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: ERROR
+[20:47:43] [Netty Epoll Server IO #1/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: xxx_milanesa666 lost connection: Server Mod rejections:
+Mystical World: Requires version 1.12.2-1.11.0 but mod is not found on client.
+[20:47:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: xxx_milanesa666 left the game
